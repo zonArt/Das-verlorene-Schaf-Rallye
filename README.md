@@ -1,11 +1,11 @@
-# Das verlorene Schaf - Rallye
+# La brebis perdue - Jeu
 
-Eine Rallye für Kinder (etwa 4-8 Jahre) zum Gleichnis vom verlorenen Sohn ([Lukasevangelium 15,3-7](http://www.bibleserver.com/text/GNB/Lukas15,3-7)) über 6 Stationen die mit dem TipToi-Stift gepielt wird.
+Un jeu pour enfant (entre 4 et 8 ans) tiré de la parabole du même nom ([Evangile de Luc 15,3-7](http://www.bibleserver.com/text/LSG/Luc15,3-7)) qui se joue sur 6 niveaux avec le stylo TipToi.
 
-Zum erstellen einer personalisierten .gme-Datei ist das [tttool](https://github.com/entropia/tip-toi-reveng) von Nöten.
+Pour céer un fichier .gme personnalisé, il est nécesaire d'avoir l'outil [tttool](https://github.com/entropia/tip-toi-reveng).
 
-![Start](http://michote.github.io/Schaf-Start.svg)
+![Start](http://zonart.github.io/Brebis-Start.svg)
 
 
-<center>[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Das verlorene Schaf - Rallye</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Micha Reischuck</span> ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).</center>
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+La brebis perdue - Jeu de Micha Reischuck est distribué sous licence [Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
